@@ -20,6 +20,19 @@ export const cookieProducts = [
       imageUrl: praline,
       description: "Un mélange divin de praliné et de caramel dans un cookie moelleux et parfaitement cuit.",
       price: 4.49
-    }
+    } ,
+    {
+      title: "Praline",
+      imageUrl: praline,
+      description: "Un mélange divin de praliné et de caramel dans un cookie moelleux et parfaitement cuit.",
+      price: 4.49
+    } ,
+    {
+      title: "Praline",
+      imageUrl: praline,
+      description: "Un mélange divin de praliné et de caramel dans un cookie moelleux et parfaitement cuit.",
+      price: 4.49
+    } ,
+
   ];
   
